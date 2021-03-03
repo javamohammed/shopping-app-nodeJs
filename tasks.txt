@@ -1,0 +1,6 @@
+-create roles in the first time
+-create first user with a ADMIN role
+-signup check if user_type in [SELLER, BUYER]
+-login jwt 
+-verify token
+lunch react project with login and signup
